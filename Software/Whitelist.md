@@ -1,0 +1,4 @@
+- [Aseprite](https://www.aseprite.org/) |  *pixel art drawing and animation.*
+- [Freedom](https://freedom.to/)  | *software & website blocker*
+- [FocusMe](https://focusme.com/) | *Blocker with more features*
+- [Sealf Authoring](https://www.selfauthoring.com/) | *online writing programs to help people become happier*

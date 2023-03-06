@@ -1,0 +1,21 @@
+### Personal Computer
+- Google Chrome  
+- Microsoft office 365 (Alternative: LibreOffice)  
+- Git  
+- [OBS Studio](https://obsproject.com/) | *video recording & live streaming.*
+- [Audacity](https://www.audacityteam.org/) | *digital audio editor*
+- Winrar
+- 7-Zip
+- XAMPP
+- Visual Studio Community
+- Visual Studio Code
+- StartUML
+- Paint.net
+- OneNote for Windows 10
+- Obsidian
+- VLC media player
+- MySQL Workbench 8.0 CE
+- Line
+- Discord
+- Avast Free Antivirus
+- Arduino IDE
