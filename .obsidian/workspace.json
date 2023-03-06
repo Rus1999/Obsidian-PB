@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "2ca80f03d6ba4a5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d04c8e7394faf7be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc81679964faf528",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dr. Andrew Huberman.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cacf61ca2c051baa",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2ac0ca1d08f9103",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e2a597d52875e2c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7c8fab6656f64f26",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a38e86646c2fe63",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c671931553ae76b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9a615bef85197e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08e1fbb66e455706",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dr. Andrew Huberman.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b96103e9bb6ab37e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dr. Andrew Huberman.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b823b4025cdc2085",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4c6ab2dcca27b8c5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dr. Andrew Huberman.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7e2a597d52875e2c",
+  "lastOpenFiles": [
+    "Untitled",
+    "Books/WhiteList.md",
+    "Dr. Andrew Huberman.md",
+    "Books/Conclusion/Ego is the Enemy.md",
+    "2023-01-31.md"
+  ]
+}
