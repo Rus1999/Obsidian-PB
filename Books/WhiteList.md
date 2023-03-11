@@ -1,1 +1,0 @@
-* Depression Is Contagious: How the Most Common Mood Disorder Is Spreading Around the Wolrd and How to Stop It by Micheal D. Yapko
